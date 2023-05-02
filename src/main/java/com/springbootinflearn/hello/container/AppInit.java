@@ -1,4 +1,4 @@
-package com.springbootinflearn.hello.studyServlet.container;
+package com.springbootinflearn.hello.container;
 
 import jakarta.servlet.ServletContext;
 

@@ -1,9 +1,8 @@
-package com.springbootinflearn.hello.studyServlet.spring;
+package com.springbootinflearn.hello.spring;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
-@Configuration
+//@Configuration
 public class HelloConfig {
     @Bean
     public HelloController helloController() {

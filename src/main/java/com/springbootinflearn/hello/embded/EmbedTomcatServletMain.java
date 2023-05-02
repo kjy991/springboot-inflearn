@@ -1,7 +1,7 @@
 package com.springbootinflearn.hello.embded;
 
 
-import com.springbootinflearn.hello.studyServlet.servlet.HelloServlet;
+import com.springbootinflearn.hello.servlet.HelloServlet;
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;
 import org.apache.catalina.connector.Connector;

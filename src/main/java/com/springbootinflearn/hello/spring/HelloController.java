@@ -1,4 +1,4 @@
-package com.springbootinflearn.hello.studyServlet.spring;
+package com.springbootinflearn.hello.spring;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

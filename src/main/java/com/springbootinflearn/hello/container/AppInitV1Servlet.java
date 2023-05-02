@@ -1,6 +1,6 @@
-package com.springbootinflearn.hello.studyServlet.container;
+package com.springbootinflearn.hello.container;
 
-import com.springbootinflearn.hello.studyServlet.servlet.HelloServlet;
+import com.springbootinflearn.hello.servlet.HelloServlet;
 import jakarta.servlet.ServletContext;
 import jakarta.servlet.ServletRegistration;
 

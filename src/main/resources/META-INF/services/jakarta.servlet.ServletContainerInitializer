@@ -1,2 +1,2 @@
-com.springbootinflearn.hello.container.MyContainerInitV1
-com.springbootinflearn.hello.container.MyContainerInitV2
+com.springbootinflearn.hello.studyServlet.container.MyContainerInitV1
+com.springbootinflearn.hello.studyServlet.container.MyContainerInitV2
